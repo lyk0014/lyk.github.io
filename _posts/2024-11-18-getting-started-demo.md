@@ -1,6 +1,5 @@
 ---
-title: Getting Started LYK 
-description: >-
+title: Getting Started LYK
 author: LYK
 date: 2024-11-18 14:54:00 +0800
 categories: [Blogging, Demo]
