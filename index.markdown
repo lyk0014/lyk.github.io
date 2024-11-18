@@ -4,3 +4,13 @@
 
 layout: home
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello GitHub Pages!</title>
+  </head>
+  <body>
+    <h1>Hello GitHub Pages!</h1>
+    <p>This page is hosted on GitHub Pages.</p>
+  </body>
+</html>
