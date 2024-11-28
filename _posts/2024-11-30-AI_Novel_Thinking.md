@@ -1,7 +1,7 @@
 ---
 title: Thinking about AI Novel
 author: LYK
-date: 2024-11-26 19:00:00 +0800
+date: 2024-11-30 19:00:00 +0800
 categories: [AIA, AI Novel]
 tags: [AI Novel, Thinking]
 pin: true
