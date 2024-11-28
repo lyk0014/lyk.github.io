@@ -6,7 +6,8 @@ categories: [Agentic, ICL]
 tags: [ICL, CoT, ToT, GoT, XoT, DoT, Agent, AI, "2024"]
 pin: true
 published: false
-description: 介绍ICL（In Context Learning），包括CoT, ToT, GoT, XoT, DoT等。
+description: 介绍ICL（In Context Learning），包括CoT, ToT, GoT, XoT, DoT等
+status: published  # todo, draft, completed, published。
 media_subpath: '/posts/20241128'
 ---
 
