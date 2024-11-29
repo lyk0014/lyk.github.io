@@ -19,7 +19,9 @@ media_subpath: '/posts/20241128'
 
 图床  
 - 图床部署：[Cloudflare](https://www.cloudflare.com/zh-cn/)
-- 图床管理：[Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
+- ~~图床管理：[Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)，由于滥用，已被Cloudflare封禁，图片只能访问一天。~~ 
+- 图床管理：[CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
+- 图片存储：[Telegram](https://telegram.org/)
 
 流量监控  
 - 流量监控：[Google Analytics](https://analytics.google.com/)
