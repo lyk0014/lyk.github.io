@@ -31,7 +31,7 @@ media_subpath: '/posts/20241128'
 ```angular2html
 启动命令： bundle exec jekyll serve
 可选参数：
-- --unpublished # 渲染未发布的blog
+- --unpublished # 渲染未发布的blog，便于本地调试
 ```
 
 

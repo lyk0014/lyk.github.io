@@ -8,7 +8,6 @@ pin: true
 published: false
 description: 
 status: todo  # todo, draft, completed, published。
-media_subpath: '/posts/20241128'
 ---
 
 
