@@ -27,6 +27,14 @@ media_subpath: '/posts/20241128'
 - 流量监控：[Google Analytics](https://analytics.google.com/)
 
 
+**经验**
+```angular2html
+启动命令： bundle exec jekyll serve
+可选参数：
+- --unpublished # 渲染未发布的blog
+```
+
+
 
 
 **Reference**  
@@ -36,7 +44,7 @@ media_subpath: '/posts/20241128'
 - [Telegraph-Image 免费图床搭建全攻略，让你的图片存储更高效！](https://blog.csdn.net/qq_52475653/article/details/134725529)
 - [Setting up Google Analytics ](https://github.com/cotes2020/jekyll-theme-chirpy/issues/150)
 - [Jekyll 中的配置和模板语法](https://gist.github.com/hellokaton/f88be58ef4ae0f3741bb36ab8daa53c5)
-
+- [Jekyll使用教程笔记 二](https://blog.csdn.net/weixin_34085658/article/details/91476463)
 
 
 
