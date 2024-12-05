@@ -27,6 +27,7 @@ media_subpath: '/posts/20241128'
 - NotebookLM的产生过程分析（创意、产品、团队、深度体验）
 - 付鹏 讲经济的好像是东北证券的，大方向看的很准
 - DiT、MMDiT模型理解
+- AI-Scientist 是否可以复用在AI小说项目上
 
 
 
