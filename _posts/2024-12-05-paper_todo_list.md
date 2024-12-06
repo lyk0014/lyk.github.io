@@ -179,6 +179,7 @@ description: 已读和待读Paper列表
 |  43  |  ⏳  | 2024 | 2024-12-05 | - | IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation |
 |  44  |  ⏳  | 2024 | 2024-12-05 | - | Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization  |
 |  45  |  ⏳  | 2024 | 2024-12-05 | - | Scalable and Domain-General Abstractive Proposition Segmentation  |
+|  46  |  ⏳  | 2024 | 2024-12-06 | - | OpenAI o1 System Card  |
 
 
 {: .table-striped .table-hover}
@@ -224,6 +225,7 @@ description: 已读和待读Paper列表
 |  6  |  ⏳  | 2024 | 2024-12-05 | - | Look Every Frame All at Once: Video-Ma2mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing |
 |  7  |  ⏳  | 2024 | 2024-12-05 | - | SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning |
 |  8  |  ⏳  | 2024 | 2024-12-05 | - | SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization |
+|  9  |  ⏳  | 2024 | 2024-12-06 | - | PaliGemma 2: A Family of Versatile VLMs for Transfer |
 
 
 ## Multi-Agent
@@ -284,13 +286,14 @@ description: 已读和待读Paper列表
 ## Thinking
 
 📊 **统计**
-- 总论文: 2篇
-- 待读: 2篇
+- 总论文: 3篇
+- 待读: 3篇
 - 进行中: 0篇
 - 已完成: 0篇
 
 |  1  |  ⏳  | 2024 | 2024-12-05 | - | 王兴 - https://www.zhihu.com/question/19597590/answer/3204987013 |
 |  2  |  ⏳  | 2024 | 2024-12-05 | - | 人工智能如何让世界变得更美好  |
+|  3  |  ⏳  | 2024 | 2024-12-06 | - | [罕见！云计算一哥CTO，现场不发产品只讲教训](https://mp.weixin.qq.com/s/sXKMFKU4Ytnfqb7Ti1l3uA)  |
 
 
 
