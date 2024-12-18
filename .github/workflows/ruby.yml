@@ -17,7 +17,13 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.3.6'
-        bundler-cache: true # 这会缓存 bundle install 的结果
+        bundler-cache: true
     
     - name: Install dependencies
-      run: bundle install 
+      run: bundle install
+      
+    - name: Build site
+      run: bundle exec jekyll build
+      
+    - name: Run tests
+      run: bundle exec htmlproofer ./_site --disable-external
