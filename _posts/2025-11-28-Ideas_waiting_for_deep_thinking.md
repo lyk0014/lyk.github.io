@@ -23,11 +23,21 @@ media_subpath: '/posts/20241128'
 - LLM招聘技能点梳理
 - 设计产品核心，把自己变成傻瓜
 - 管理的核心，别让猴子爬到你的背上
-- AgentFrame尝试（PydanticAI、Openai-swarm, Microsoft）
+- AgentFrame尝试（PydanticAI、Openai-swarm, Microsoft-Magentic-One, Google）
 - NotebookLM的产生过程分析（创意、产品、团队、深度体验）
 - 付鹏 讲经济的好像是东北证券的，大方向看的很准
 - DiT、MMDiT模型理解
 - AI-Scientist 是否可以复用在AI小说项目上
+- Llama 3.3 
+- Microsoft's Phi-4
+- OpenAI 12 news
+    - o1 and o1 Pro
+    - 少量数据强化微调
+    - Free Canvas
+- HuggingFace TGI, 3倍提速优于vLLM (在LongPrompt)
+- cursor的原理分析和使用指南
+- 推荐是有原罪的，信息茧房、信息过载、信息操纵
+    
 
 
 

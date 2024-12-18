@@ -5,9 +5,8 @@ date: 2029-01-01 00:00:00 +0800
 categories: [Reading, Paper]
 tags: [Template]
 pin: true
+published: false
 description: Template
-media_subpath: '/posts/20290101'
-status: todo  # todo, draft, completed, published
 ---
 
 # Intro
@@ -33,8 +32,8 @@ LLaVA-o1，介一个新颖的视觉语言模型, 能够进行多阶段的结构�
 - [x] Q6：LLaVA-o1-100k数据集的构建目标、标准、方法是什么？怎么评价数据量是否足够？
 - [x] Q7：下一步需要解决的问题？或努力的方向？
 
-## Answer
-### Q1：什么是视觉语言模型（Vision-Language Models, VLMs）?
+
+## Q1：什么是视觉语言模型（Vision-Language Models, VLMs）?
 VLM (Vision-Language Model) 指讲视觉和语言信息融合，通过模型学习实现跨模态交互和推理的技术。
 主要用于视觉推理或视觉表征。
 区别于传统的计算机视觉模型，VLM不受固定类别集或特定任务（如分类或检测）约束，
