@@ -291,6 +291,8 @@ description: 已读和待读Paper列表
 |---|--|---|--|---|---|
 |  1  |  ⏳  | 2024 | 2024-12-10 | - | Video generation models as world simulators |
 |  2  |  ⏳  | 2024 | 2024-12-13 | - | StyleMaster: Stylize Your Video with Artistic Generation and Translation |
+|  3  |  ⏳  | 2024 | 2024-12-18 | - | Apollo: An Exploration of Video Understanding in Large Multimodal Models |
+
 
 
 ## 3D
