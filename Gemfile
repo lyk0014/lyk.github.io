@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+# 指定 Ruby 版本要求
+ruby '3.3.6'
+
 gemspec
 
 gem "html-proofer", "~> 5.0", group: :test
