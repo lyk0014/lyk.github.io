@@ -26,8 +26,9 @@ jobs:
       run: bundle exec jekyll build
       
     - name: Run tests
-      run: bundle exec htmlproofer ./_site \
-        --disable-external \
-        --allow-missing-href \
-        --ignore-urls "/assets/img/favicons/" \
-        --ignore-missing-alt
+      run: |
+        bundle exec htmlproofer ./_site \
+          --disable-external=true \
+          --allow-missing-href=true \
+          --ignore-urls="/assets/img/favicons/" \
+          --ignore-missing-alt=true
