@@ -5,7 +5,7 @@ date: 2024-12-12 09:00:00 +0800
 categories: [Reading, Paper]
 tags: [MLLM, Manga]
 pin: true
-published: false
+published: true
 description: 精读DiffSensei
 ---
 

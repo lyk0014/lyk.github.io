@@ -5,7 +5,7 @@ date: 2024-12-09 00:00:00 +0800
 categories: [Reading, Paper]
 tags: [Novel Generation, Novel, LLM, Story]
 pin: true
-published: false
+published: true
 description: 粗读，汇总目前收集到的关于Novel Generation的论文【截止202412】
 media_subpath: '/posts/20241210'
 status: todo  # todo, draft, completed, published
