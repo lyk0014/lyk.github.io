@@ -37,8 +37,14 @@ media_subpath: '/posts/20241128'
 - HuggingFace TGI, 3倍提速优于vLLM (在LongPrompt)
 - cursor的原理分析和使用指南
 - 推荐是有原罪的，信息茧房、信息过载、信息操纵
-    
-
+- idea: 不上班咖啡馆 辅助职业，人生，心理选择， 结合notebook LM的思路，做成对话事的心理疏导
+- MCTS
+- RoPE
+- O1 & O3
+- Physics of Language Models（面向应用层读者）
+- 叙事的游戏化 - 实际地把Player和Agent的活动空间推上去（方便提桶跑路到游戏开发）
+- 小冰李笛：真正的AI信仰者不该FOMO
+- openai 嵌入实时语音对话SDK
 
 
 
